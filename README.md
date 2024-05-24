@@ -4,4 +4,4 @@ Etapes-clés :
 - acheter/louer nom de domaine (ok : baloodoudou.fr)
 - hébergeur (ok : OVH)
 - liste fonctionnalités
-- adresse mail de référence : mariagebaloodoudou@tutamail.com
+- adresse mail de référence : mariagebaloodoudou@gmail.com
